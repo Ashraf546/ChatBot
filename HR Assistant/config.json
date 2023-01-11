@@ -1,0 +1,17 @@
+{
+    "name": "HR Assistant",
+    "envVariables": [
+        {
+            "key": "HRAPI",
+            "value": "https://63a9b2e4594f75dc1dbdb108.mockapi.io/LeaveDetails",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "aeac4b6b-efc7-596f-b12a-1a7b6b1f091c"
+            ]
+        }
+    ]
+}
